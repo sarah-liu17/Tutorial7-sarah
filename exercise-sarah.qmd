@@ -21,11 +21,9 @@ header-includes:
   - \usepackage{verbatim}
 ---
 
-
-
 ```{r}
 library(tinytex)
 ```
 
-# New section 
-something with new section blahbalh
+# Another new section
+another section 
